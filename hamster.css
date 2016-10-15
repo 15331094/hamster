@@ -1,0 +1,111 @@
+#wholePage {
+	width: 1353px;
+	margin: auto;
+	/*background-color: green;*/
+}
+
+#top {
+	width: 1353px;
+	height: 180px;
+	/*background-color: blue;*/
+}
+
+
+h1, p {
+	text-align: center;
+}
+
+
+#page {
+	width: 250px;
+	height: 140px;
+	margin: auto;
+	/*background-color: red;*/
+	padding-top: 15px;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+
+
+.square {
+	width: 25px;
+	height: 25px;
+	float: left;
+	/*background-color: green;*/
+}
+
+.circle {
+	width: 10px;
+	height: 10px;
+	border-width: 1px;
+	border-style: solid;
+	border-radius: 50%;
+	position: relative;
+	left: 24%;
+	top: 24%;
+	box-shadow: 1px 1px 1px 1px #888888;
+}
+
+
+#one {
+	width: 54%;
+	/*background-color: red;*/
+	float: left;
+	margin-bottom: 10px;
+}
+
+#two {
+	width: 46%;
+	/*background-color: green;*/
+	float: left;
+	margin-bottom: 10px;
+}
+
+#three {
+	width: 56%;
+	/*background-color: green;*/
+	float: left;	
+}
+
+#four {
+	width: 44%;
+	/*background-color: red;*/
+	float: left;
+}
+
+button {
+	position: relative;
+	left: 550px;
+	top: 0px;
+}
+
+#time {
+	position: relative;
+	left: 50px;
+}
+
+#clock {
+	position: relative;
+	left: 50px;
+}
+
+#gameover {
+	position: relative;
+	left: 550px;
+}
+
+#score {
+	position: relative;
+	left: 16px;
+}
+
+#scorenum {
+	position: relative;
+	left: 16px;
+}
+
+#instructions {
+	width: 50%;
+	margin: auto;
+	/*background-color: blue;*/
+}
